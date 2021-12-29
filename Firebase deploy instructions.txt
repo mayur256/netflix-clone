@@ -1,0 +1,10 @@
+1. CLI command "firebase login"
+2. CLI command "firebase init"
+3. Select hosting feature
+4. Select correct (existing) project
+5. Set public directory name for project (name = build)
+6. Choose single app
+7. Choose if you want github action deploys
+8. CLI command "npm run build"
+9. CLI command "firebase deploy"
+
